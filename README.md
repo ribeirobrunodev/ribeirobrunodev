@@ -3,27 +3,6 @@
 
 👨‍💻Análise e Desenvolvimento de Sistemas 
 
-
-## 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ribeirobrunodev&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirobrunodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
- 
- <p> 
- 
  ## 🤖  Linguagens e Tecnologias
     
 <div style="display: inline_block"><br>
@@ -46,3 +25,19 @@
   <a href="https://www.linkedin.com/in/brunoribeirodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+ ## 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ribeirobrunodev&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirobrunodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
