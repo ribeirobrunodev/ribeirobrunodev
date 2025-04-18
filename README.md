@@ -1,11 +1,17 @@
 ## Bruno Ribeiro 🤖
-📚 **`Desenvolvedoro Front-end`**📚
+📚 **`Desenvolvedoro Front-end`**
 
+👨‍💻Análise e Desenvolvimento de Sistemas 
+
+
+## 📊 Estatísticas
  <div>
    <a href="https://github.com/ribeirobrunodev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirobrunodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirobrunodev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+## 🤖  Linguagens e Tecnologias
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +23,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### 
  
 <div> 
  
@@ -26,3 +32,4 @@
   <a href = "mailto:contatoribeirobrunodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunoribeirodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
