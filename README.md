@@ -43,4 +43,4 @@
   />
 
  
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ribeirobrunodev/ribeirobrunodev/output/snake.svg" alt="Snake animation" />
