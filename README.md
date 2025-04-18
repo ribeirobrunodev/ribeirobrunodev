@@ -5,13 +5,26 @@
 
 
 ## 📊 Estatísticas
- <div>
-   <a href="https://github.com/ribeirobrunodev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirobrunodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirobrunodev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ribeirobrunodev&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirobrunodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
 
-## 🤖  Linguagens e Tecnologias
+ 
+ <p> 
+ 
+ ## 🤖  Linguagens e Tecnologias
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
