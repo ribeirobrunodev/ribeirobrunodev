@@ -41,4 +41,6 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirobrunodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
+
+ 
 ![snake gif](https://github.com/ribeirobrunodev/ribeirobrunodev/blob/output/github-contribution-grid-snake.svg)
