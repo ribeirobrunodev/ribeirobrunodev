@@ -43,6 +43,4 @@
   />
 
  
-![snake animation](https://github.com/ribeirobrunodev/ribeirobrunodev/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ribeirobrunodev&repo=ribeirobrunodev&theme=react)](https://github.com/ribeirobrunodev/ribeirobrunodev)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
