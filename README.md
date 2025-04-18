@@ -45,4 +45,4 @@
  
 ![snake gif](https://github.com/ribeirobrunodev/ribeirobrunodev/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ribeirobrunodev&repo=ribeirobrunodev&theme=react)](https://github.com/ribeirobrunodev/ribeirobrunodev)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?ribeirobrunodev=ribeirobrunodev&repo=ribeirobrunodev&theme=react)](https://github.com/ribeirobrunodev/ribeirobrunodev)
