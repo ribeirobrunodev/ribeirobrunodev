@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do Bruno Ribeiro 🤖
-📚 Estudando Front-end
+## Bruno Ribeiro 🤖
+📚 **`Desenvolvedoro Front-end`**📚
 
  <div>
    <a href="https://github.com/ribeirobrunodev">
